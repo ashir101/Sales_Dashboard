@@ -6,11 +6,11 @@ The Intersactive Sales Dashboard & Forecast project, created using Power BI Desk
 
 ## Table Used:
 
-https://github.com/ashir101/
+https://github.com/ashir101/Sales_Dashboard/blob/main/Sales%20Dataset.csv
 
 ## Dashboard Created:
 
-https://github.com/ashir101/
+https://github.com/ashir101/Sales_Dashboard/blob/main/Sales%20Dashboard%20%26%20Forecast.pdf
 
 ## Key Focus Areas:
 
